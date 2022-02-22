@@ -1,1 +1,1 @@
-# IBM-java-academy
+# IBM Java Academy
